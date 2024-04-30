@@ -29,7 +29,7 @@ Welcome to Recruitment Revolution! This is a web-based application designed to s
 2. **Public IP/URL to live server** 🌐:
    - [Live Server URL](http://16.170.208.219/recruitment123/FinalProject/)
 
-3. **YouTube Demonstration Video Link ** 🎥🔴▶▶️:
+3. **YouTube Demonstration Video Link** 🎥🔴▶▶️:
    - [YouTube Video](https://youtu.be/e1MNI45A_sQ)
 
 ## Getting Started 🚀
